@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name = "pwtools",
-    version = "0.2",
+    version = "0.4",
     description = "Password generation and security checking",
     license = "MIT License",
     long_description = """\
